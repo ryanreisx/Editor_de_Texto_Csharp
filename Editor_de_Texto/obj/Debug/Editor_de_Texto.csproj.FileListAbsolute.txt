@@ -1,0 +1,8 @@
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\bin\Debug\Editor_de_Texto.exe.config
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\bin\Debug\Editor_de_Texto.exe
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\bin\Debug\Editor_de_Texto.pdb
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\obj\Debug\Editor_de_Texto.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\obj\Debug\Editor_de_Texto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\obj\Debug\Editor_de_Texto.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\obj\Debug\Editor_de_Texto.exe
+C:\Users\Ryan\source\repos\Editor_de_Texto\Editor_de_Texto\obj\Debug\Editor_de_Texto.pdb
